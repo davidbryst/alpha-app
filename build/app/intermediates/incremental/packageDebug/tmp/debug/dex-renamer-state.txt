@@ -1,0 +1,4 @@
+#Mon Mar 01 15:53:28 GMT 2021
+base.0=C\:\\Users\\DAVID\\Bureau\\Project\\project 2021\\alpha-app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
